@@ -1,0 +1,31 @@
+[
+  {
+    "id": "0",
+    "title": "Thousand Faces",
+    "author": "Don Diablo",
+    "lyric": "",
+    "url": "https://jirengu.github.io/data-mock/huawei-music/莫文蔚-真的吗.mp3"
+  },
+
+  {
+    "id": "1",
+    "title": "in the mood",
+    "author": "梁老师Tsong",
+    "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_水星记.json",
+    "url": "https://jirengu.github.io/data-mock/huawei-music/水星记.mp3"
+  },
+  {
+    "id": "2",
+    "title": "Hey Baby",
+    "author": "Tungevaag & Raaban",
+    "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_后来的我们.json",
+    "url": "https://jirengu.github.io/data-mock/huawei-music/后来的我们.mp3"
+  },
+  {
+    "id": "3",
+    "title": "始途行者",
+    "author": "PRC,PRC HT,PRC Mission",
+    "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_假装.json",
+    "url": "https://jirengu.github.io/data-mock/huawei-music/假装.mp3"
+  }
+]
