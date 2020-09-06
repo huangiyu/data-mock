@@ -3,29 +3,29 @@
     "id": "0",
     "title": "Thousand Faces",
     "author": "Don Diablo",
-    "lyric": "",
-    "url": "https://jirengu.github.io/data-mock/huawei-music/莫文蔚-真的吗.mp3"
+    "lyric": "https://huangiyu.github.io/data-mock/huawei-music/Thousand faces.json",
+    "url": "https://huangiyu.github.io/data-mock/huawei-music/Don Diablo - Thousand Faces.mp3"
   },
 
   {
     "id": "1",
     "title": "in the mood",
     "author": "梁老师Tsong",
-    "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_水星记.json",
-    "url": "https://jirengu.github.io/data-mock/huawei-music/水星记.mp3"
+    "lyric": "https://huangiyu.github.io/data-mock/huawei-music/In%20the%20mood.json",
+    "url": "https://huangiyu.github.io/data-mock/huawei-music/%E6%A2%81%E8%80%81%E5%B8%88Tsong%20-%20in%20the%20mood.mp3"
   },
   {
     "id": "2",
     "title": "Hey Baby",
     "author": "Tungevaag & Raaban",
-    "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_后来的我们.json",
-    "url": "https://jirengu.github.io/data-mock/huawei-music/后来的我们.mp3"
+    "lyric": "https://huangiyu.github.io/data-mock/huawei-music/Hey%20baby.json",
+    "url": "https://huangiyu.github.io/data-mock/huawei-music/Tungevaag & Raaban - Hey Baby.mp3"
   },
   {
     "id": "3",
     "title": "始途行者",
     "author": "PRC,PRC HT,PRC Mission",
-    "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_假装.json",
-    "url": "https://jirengu.github.io/data-mock/huawei-music/假装.mp3"
+    "lyric": "https://huangiyu.github.io/data-mock/huawei-music/始途行者.json",
+    "url": "https://huangiyu.github.io/data-mock/huawei-music/PRC,PRC%20HT,PRC%20Mission%20-%20%E5%A7%8B%E9%80%94%E8%A1%8C%E8%80%85.mp3"
   }
 ]
